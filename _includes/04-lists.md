@@ -1,4 +1,4 @@
 Favorite Things
-*Food
-*Travel
-*Movies
+* Food
+* Travel
+* Movies
